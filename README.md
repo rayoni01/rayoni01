@@ -1,18 +1,19 @@
-### Brian Rayoni — Incident Handling Engineer | Deception Detection
+# Brian Rayoni — Incident Handling Engineer | Deception Detection
 
-SOC Analyst (QRadar, SentinelOne, Defender) in Johannesburg, building towards Detection Engineering & Solutions Engineering.
+Incident Handling Engineer (QRadar, SentinelOne, Microsoft Defender) in Johannesburg, moving toward Detection Engineering and Solutions Engineering.
 
-**Currently focused on Thinkst Canary — high-fidelity, zero-noise detection:**
+## What I'm building
+Self-directed deception labs testing where canaries give high-fidelity alerts compared with noisy SIEM and EDR:
 
-- **canary-lab** — Main lab: AWS key, doc & folder canaries + Python SOAR to Slack/S1 (2s triage)
-- **canary-aws-cloud-honeypot** — Fake AKIA in .env -> CloudTrail detection, MITRE T1552.001
-- **ad-honey-account-tripwire** — Honey AD user svc_finance_backup to catch BloodHound/Kerberoasting (4768)
+- **canary-lab**: AWS key, decoy document and folder canaries, with a Python parser sending alerts to Slack and triggering SentinelOne isolation.
+- **canary-aws-cloud-honeypot**: a fake AWS key in a .env file, detected through CloudTrail. MITRE T1552.001.
+- **ad-honey-account-tripwire**: a decoy AD service account (svc_finance_backup) with a Python detection script.
 
-**Value prop:** 1 accurate alert vs 1000 false positives. Reducing MTTD, eliminating manual triage.
+## Certifications
+Microsoft Cybersecurity Architect Expert · Microsoft SC-200 · CompTIA Security+ ce · Zscaler Certified Administrator (ZIA/ZPA) and Sales Engineer · QRadar EDR Technical Sales · Fortinet FortiGate 7.4 Operator
 
-**Certs:** CompTIA Security+ ce, SC-200, Fortinet, Zscaler ZIA/ZPA + Sales Engineer, QRadar EDR Sales
+## Stack
+Python · Kali · Wireshark · QRadar · SentinelOne · Microsoft Sentinel · FortiGate
 
-**Stack:** Python (security automation), Kali, Wireshark, QRadar, SentinelOne, FortiGate
-
-📍 Randburg, SA — Open to remote SE roles
-📧 bpfeka01@gmail.com | [LinkedIn](https://linkedin.com/in/brianrayoni)
+📍 Randburg, South Africa · Open to remote Solutions Engineer roles
+📧 bpfeka01@gmail.com · [LinkedIn](https://www.linkedin.com/in/brian-rayoni-bbb037266)
