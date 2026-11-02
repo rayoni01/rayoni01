@@ -15,4 +15,4 @@ SOC Analyst (QRadar, SentinelOne, Defender) in Johannesburg, building towards De
 **Stack:** Python (security automation), Kali, Wireshark, QRadar, SentinelOne, FortiGate
 
 📍 Randburg, SA — Open to remote SE roles
-📧 bpfeka@gmail.com | [LinkedIn](https://linkedin.com/in/brianrayoni)
+📧 bpfeka01@gmail.com | [LinkedIn](https://linkedin.com/in/brianrayoni)
