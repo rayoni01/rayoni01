@@ -1,16 +1,18 @@
-## Hi there 👋
+### Brian Rayoni — Incident Handling Engineer | Deception Detection
 
-<!--
-**rayoni01/rayoni01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SOC Analyst (QRadar, SentinelOne, Defender) in Johannesburg, building towards Detection Engineering & Solutions Engineering.
 
-Here are some ideas to get you started:
+**Currently focused on Thinkst Canary — high-fidelity, zero-noise detection:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **canary-lab** — Main lab: 【entity-AWS¦canonical_name=AWS】 key, doc & folder canaries + Python SOAR to Slack/S1 (2s triage)
+- **canary-【entity-aws¦canonical_name=AWS】-cloud-honeypot** — Fake AKIA in .env -> CloudTrail detection, MITRE T1552.001
+- **ad-honey-account-tripwire** — Honey AD user svc_finance_backup to catch BloodHound/Kerberoasting (4768)
+
+**Value prop:** 1 accurate alert vs 1000 false positives. Reducing MTTD, eliminating manual triage.
+
+**Certs:** CompTIA Security+ ce, SC-200, Fortinet, Zscaler ZIA/ZPA + Sales Engineer, QRadar EDR Sales
+
+**Stack:** Python (security automation), Kali, Wireshark, QRadar, SentinelOne, FortiGate
+
+📍 Randburg, SA — Open to remote SE roles
+📧 bpfeka@gmail.com | [LinkedIn](https://linkedin.com/in/brianrayoni)
