@@ -4,8 +4,8 @@ SOC Analyst (QRadar, SentinelOne, Defender) in Johannesburg, building towards De
 
 **Currently focused on Thinkst Canary — high-fidelity, zero-noise detection:**
 
-- **canary-lab** — Main lab: 【entity-AWS¦canonical_name=AWS】 key, doc & folder canaries + Python SOAR to Slack/S1 (2s triage)
-- **canary-【entity-aws¦canonical_name=AWS】-cloud-honeypot** — Fake AKIA in .env -> CloudTrail detection, MITRE T1552.001
+- **canary-lab** — Main lab: AWS key, doc & folder canaries + Python SOAR to Slack/S1 (2s triage)
+- **canary-aws-cloud-honeypot** — Fake AKIA in .env -> CloudTrail detection, MITRE T1552.001
 - **ad-honey-account-tripwire** — Honey AD user svc_finance_backup to catch BloodHound/Kerberoasting (4768)
 
 **Value prop:** 1 accurate alert vs 1000 false positives. Reducing MTTD, eliminating manual triage.
